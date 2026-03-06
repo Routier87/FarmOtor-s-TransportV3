@@ -2,7 +2,7 @@
 const webhook="PASTE_DISCORD_WEBHOOK";
 
 const admins=["Farm","Oxi-Wanteed13","SuperCAT71"];
-const dev=["TON_PSEUDO_DEV"];
+const dev=["𝔏𝔢 𝔯𝔬𝔲𝔱𝔦𝔢𝔯 𝔡𝔲 87"];
 
 const currentUser="Farm";
 
@@ -10,8 +10,8 @@ const drivers=[
 {name:"Farm",role:"Patron"},
 {name:"Oxi-Wanteed13",role:"Co-Patron"},
 {name:"SuperCAT71",role:"Manager"},
-{name:"Driver4",role:"Conducteur"},
-{name:"Driver5",role:"Conducteur"}
+{name:"Driver4",role:"D2 | 𝔏𝔢 𝔯𝔬𝔲𝔱𝔦𝔢𝔯 𝔡𝔲 87"},
+{name:"Driver5",role:"D2 | Mr_Wolf"}
 ];
 
 const container=document.getElementById("drivers");
