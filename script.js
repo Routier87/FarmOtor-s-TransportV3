@@ -10,8 +10,8 @@ const drivers=[
 {name:"Farm",role:"Patron"},
 {name:"Oxi-Wanteed13",role:"Co-Patron"},
 {name:"SuperCAT71",role:"Manager"},
-{name:"Driver4",role:"D2 | 𝔏𝔢 𝔯𝔬𝔲𝔱𝔦𝔢𝔯 𝔡𝔲 87"},
-{name:"Driver5",role:"D2 | Mr_Wolf"}
+{name:"𝔏𝔢 𝔯𝔬𝔲𝔱𝔦𝔢𝔯 𝔡𝔲 87",role:"D2"},
+{name:"Mr_Wolf",role:"D2"}
 ];
 
 const container=document.getElementById("drivers");
